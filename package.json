@@ -1,0 +1,9 @@
+{
+  "name": "loud-weekend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "주말 근처 콘서트 찾기 앱 (PWA)",
+  "scripts": {
+    "dev": "node dev-server.js"
+  }
+}

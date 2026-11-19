@@ -1,0 +1,32 @@
+{
+  "name": "Loud Weekend Dream",
+  "short_name": "LW Dream",
+  "description": "주말 근처 콘서트를 날짜·장르·가격·거리로 찾고, 좌석과 근처 숙소까지 묶어 예산을 계산해요.",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ECE6FF",
+  "theme_color": "#ECE6FF",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
